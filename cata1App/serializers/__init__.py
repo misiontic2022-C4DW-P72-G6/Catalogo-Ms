@@ -1,0 +1,2 @@
+from .catalogoSerializer import catalogoSerializer
+from .habitacionSerializer import habitacionSerializer

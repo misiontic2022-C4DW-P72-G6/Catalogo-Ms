@@ -1,0 +1,4 @@
+from .habitacionCreateView import habitacionCreateView
+from .catalogoCreateView import catalogoCreateView
+from .catalogoDetailView import catalogoDetailView
+from .habitacionDetailView import habitacionDetailView
